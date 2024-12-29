@@ -76,16 +76,14 @@ npm run build
 Contributions to the Next.js Chrome Extension Starter are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 # License
-This project is licensed under the MIT License.
+
 
 Feel free to customize and modify it based on your specific requirements. 
 Make sure to include any additional information, such as troubleshooting tips or specific 
 Chrome extension functionality, to provide a comprehensive guide for users.
 
 ```
-MIT License
 
-Copyright (c) 2023 Justinas Kairys (ibnzUk)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
